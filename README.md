@@ -12,9 +12,9 @@ I am an architectural design researcher with the superpower of programming. Here
 ### Codes
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArchiDog1998/ArchiDog1998/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ted-Jin-Lab/Ted-Jin-Lab/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ted-Jin-Lab/Ted-Jin-Lab/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ted-Jin-Lab/Ted-Jin-Lab8/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### Contact
@@ -22,8 +22,8 @@ I am an architectural design researcher with the superpower of programming. Here
 
 [![Discord](https://discordapp.com/api/guilds/1041530867526410361/embed.png?style=banner2)](https://discord.gg/m9CFSZVVBp)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArchiDog1998&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ted-Jin-Lab&layout=compact&theme=dark)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArchiDog1998&show_icons=true&count_private=true&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ted-Jin-Lab&show_icons=true&count_private=true&theme=dark)
 
 [![Kofi](https://storage.ko-fi.com/cdn/brandasset/v2/support_me_on_kofi_dark.png)](https://ko-fi.com/B0B0IN5DX)
